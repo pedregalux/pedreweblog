@@ -1,18 +1,14 @@
 ---
 layout: page
-title: About
+title: Info
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Este es mi blog, cosas de tecnología, política, tecno-política y a veces música, libros, etc.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+A veces uso redes sociales:
+[twitter](https://twitter.com/feliperry)
+[reddit](https://www.reddit.com/user/pedregalux)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Y algunas cosas en github:
+[github](https://github.com/pedregalux)
