@@ -9,3 +9,5 @@ Este es mi nuevo blog. En este tiempo extraño es bueno escribir y compartir cos
 `EL VIEJO INTERNET`
 
 No puedo dejar de ser un nostálgico del viejo Internet, el que existió antes de llenarnos de publicidad y rastreos, antes de Zuckerberg y su avalancha de mierda, porque calculando fue Facebook quien puso las primeras cargas de dinamita que hicieron explotar todo lo bueno, los demás lo siguieron y algunos lo han hecho aún mejor(peor para nosotrxs).
+
+Un libro muy bien escrito, entretenido, sobre el camino de Facebook hacia la debacle, no comercial por cierto, es [Zucked](https://www.elespanol.com/invertia/empresas/20190210/zucked-inversor-desencantado-facebook-demuestra-peligro-democracia/374963124_0.html), si no le tiene miedo al pirateo digital, está a un google de distancia. Lo interestante del libro es que es una critica hecha desde adentro por uno de los primeros inversores en Facebook, Roger McNamee, quien es un típico gringo millonario ilustrado amigo de Bono de U2. Por todos lados un insufrible.
